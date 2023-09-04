@@ -1,9 +1,16 @@
-# subatoi-test
+**# subatoi-test
 
-[!NOTE](Highlights information that users should take into account, even when skimming.)
+> [!NOTE]
+> Information the user should notice even if skimming.
 
-[!IMPORTANT]
-Crucial information necessary for users to succeed.
+> [!TIP]
+> Optional information to help a user be more successful.
 
-[!WARNING]
-Critical content demanding immediate user attention due to potential risks.
+> [!IMPORTANT]
+> Essential information required for user success.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
+
+> [!WARNING]
+> Dangerous certain consequences of an action.
